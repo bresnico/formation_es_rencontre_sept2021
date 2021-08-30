@@ -1,13 +1,13 @@
 ---
-title: "Campagne d'idées HEP-VS"
-subtitle: "Une synthèse &#x1F60E;"  
-team: "Unité Développement de la Qualité"
-author: "Nicolas Bressoud"
-date: "28 juin 2021"
+title: "Formation continue obligatoire des ES du VS Romand"
+subtitle: "Présentation du projet HEP-VS &#x1F6A7;"  
+team: "Équipe de pilotage du projet"
+author: "Sous la direction d'Anne-Françoise Martinon"
+date: "15 septembre 2021"
 photo_creds: "[Brighton, velká británie](https://unsplash.com/photos/fJ6r_mkHrsw)" 
 url_unsplash: "https://images.unsplash.com/photo-1617469913072-5a08e3f84c3f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
-url_website: "http://www.hepvs.ch/la-hep-vs/gestion-de-la-qualite"
-url_intranet: "https://rms.hepvs.ch/repository/0-fuhrung/2-organisationsentwicklung/allgemeines/dossier-22523/dossier-23180#overview"
+url_website: "https://www.hepvs.ch/formation-continue-enseignants/informations-generales"
+url_intranet: "https://rms.hepvs.ch/repository/4-weiterbildung/5-einmalige-weiterbildungsangebote/formation-continue-des-enseignants-specialises/dossier-23007"
 background_position: "1050px 20px"
 background_size: "100px"
 output:
@@ -61,32 +61,53 @@ background-size: cover
 
 ### `r rmarkdown::metadata$date`
 
-.right[
-Photo par `r rmarkdown::metadata$photo_creds`
-]
-
 ---
 class: about-me, middle, center
 
 
 <img style="border-radius: 50%;" src="https://pbs.twimg.com/profile_images/1300813855183065100/-Rd3mskJ.jpg" width="150px"/>
 
-## Gestion des idées HEP-VS
+## Formation continue HEP-VS
 
 [`r icons::fontawesome("link")` `r basename(rmarkdown::metadata$url_website)`](`r rmarkdown::metadata$url_website`)</br>
-[`r icons::fontawesome("user-lock")` Idéation 2021 (RII)](`r rmarkdown::metadata$url_intranet`)
+[`r icons::fontawesome("user-lock")` Stockage du projet (RII)](`r rmarkdown::metadata$url_intranet`)
 ---
 class: , middle left
 
-### Retour général
+### Rappel du contexte et commande de base
 
 --
 
-### Résultats et enseignements
+### Etat d'avancement général du projet
 
 --
 
-### Actions à suivre
+### Présentation du concept de formation
+
+--
+
+### Parcours de formation des ES
+
+--
+
+### Stratégie de recrutement des équipes de formation
+
+--
+
+### Discussion et Décisions
+
+--
+
+### Prochains jalons (go / no go)
+
+--
+
+### La question des organes liés à la formation
+
+--
+
+### Divers
+
 
 ---
 
@@ -94,366 +115,443 @@ class: title-slide, inverse, middle
 background-image: url("https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")
 background-size: cover
 
-## Retour général
-
-
-
-
+## Rappel du contexte et commande initiale
 
 ---
 
-class: middle left
+class: middle left, inverse
 background-color:#D2202b
 
+## Rappel du contexte
 
-![](ideation_workflow.png)
+- Demande de formation par l'OES (premiers contacts en automne 2020)
+
+--
+
+- HEP-VS en phase d'accréditation institutionnelle (autonomie)
+
+--
+
+- Volonté de présenter un *produit excellent* pour un public exigeant
 
 ---
 
-class: middle left
 
-## Quelques données
+class: middle left, inverse
+background-color:#D2202b
 
---
-
-### Nombre de personnes inscrites : 13
+## Commande de l'OES (novembre 2020)
 
 --
 
-### Nombre d'idées : 20
+- Formation obligatoire de 44 heures
 
 --
 
-### Nombre de votes cumulés : 35
-
-
----
-class: inverse, middle, center
-
-
-## Ranking des participant·es
-(Par fréquence d'idées, descendant)
+- Abordant les notions de :
 
 --
 
-.pull-left[
-### Myriam Bouverat
-### Isabelle Capron Puozzo
-### Jacques Dussez
-### Amalia Terzidis
-
-]
-
-.pull-right[
-
-### Kevin Andrey
-### Corinne Ramillon
-### Nathalie Nanchen 
-
-]
----
-class: inverse, middle, center
-
-## Ranking des idées
-### (de 6 à 2 votes)
+1. connaissances des troubles (aspects de neurosciences),
 
 --
 
-.pull-left[
-### Les incontournables
-Suivi des idées
-
-Retour sur investissement
-
-Un modèle hybride ?
-
-Les idées, c'est bien...
-
-]
+1. spécificités de l'autisme, 
 
 --
 
-.pull-right[
-### Les challengers
-Une valorisation des outils et plateformes numériques existants par une communication adaptée
+1. utilisation d'outils d'évaluation et de remédiation
 
-Principe dépôt d'idées
+--
 
-Meilleure communication
+[`r icons::fontawesome("link")` Document Excel remis par l'OES](https://rms.hepvs.ch/repository/4-weiterbildung/5-einmalige-weiterbildungsangebote/formation-continue-des-enseignants-specialises/dossier-23007/document-155460)
 
-Boite à idées ponctuelle et permanente
-
-Implication de l'auteur·e de l'idée
-
-Brainstorming
-
-]
-
----
-
-class: middle
-
-![](agreg.png)
-
-
-
----
-
-class: middle
-
-## Thématisation des idées
-
-![](cat.png)
 ---
 
 class: title-slide, inverse, middle
 background-image: url("https://images.unsplash.com/photo-1434626881859-194d67b2b86f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1953&q=80")
 background-size: cover
 
-## Résultats et Enseignements
+## Etat d'avancement général du projet
 
 ---
 
-class: middle, left 
+class: middle
 
-## Résultats et Enseignements
-### (> 1 vote ou fréquence)
-
---
-
-### Retour sur investissement concret
-(outcomes, feedbacks, implication de l'auteur·e)
+## Etat d'avancement général du projet &#x1F7E2;
 
 --
 
-### Système hybride et agile de génération d'idées
+- Coordination HEP-VS et SE (finances) &#x1f7e0;
 
 --
 
-### Possibilité de générer des idées librement de manière permanente
+- Fonctionnement du groupe de pilotage &#x1F7E2;
 
 --
 
-### Communication institutionnelle de qualité autour du concept
+- Projet de formation (fiche-projet) &#x1F7E2;
 
 --
 
-### Evolution des idées avec le brainstorming
+[`r icons::fontawesome("link")` Fiche-projet relative à la formation continue ES](https://rms.hepvs.ch/repository/4-weiterbildung/5-einmalige-weiterbildungsangebote/formation-continue-des-enseignants-specialises/dossier-23007/document-154181)
+
 ---
 
-class: middle, left 
 
-## Résultats et Enseignements
-### Chaque commentaire compte
+class: title-slide, inverse, middle
+background-image: url("https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80")
+background-size: cover
 
---
+## Présentation du concept de formation
 
-- *Intégration de Kinaps*
+---
 
---
+class: middle
 
--	*Intégration de sous-groupes*
+## Présentation du concept de formation
 
---
-
-- *Neutralité de l'animateur·trice*
+### Sous le capot...
 
 --
 
-- *Critères d'évaluation des idées*
+Nous formons des professionnel·les du terrain. En ce sens, tout le cursus est articulé avec 3 ingrédients :
 
 --
 
--	*Installation d'un superchargeur sur le campus*
+- Connaître et comprendre (les bases théoriques)
+
+--
+
+- Mettre en œuvre (les programmes et outils)
+
+--
+
+- Enrichir sa pratique (par les communautés de pratiques, foires aux pratiques, intervisions)
+
+--
+
+### Visées 
+
+--
+
+-	Développement des capacités transversales (au sens du PER) des élèves en difficulté ;
+
+--
+
+-	Connaissances d’aspects de neurosciences dans le développement de l’être humain ;
+
+--
+
+-	Connaissance et prise en charge des troubles du spectre de l’autisme
+
+---
+
+class: middle
+
+## Présentation du concept de formation
+
+### Les valeurs qui sous-tendent la formation
+
+.pull-left[
+### - Participation
+### - Autonomie
+### - Excellence
+]
+
+--
+
+.pull-right[
+### - Technologie adaptée
+### - Orientation client·e
+### - Impact sur les pratiques
+]
+--
+
+### Quelques données
+
+- Nombre de personnes à former : 300 - 400 (?) personnes
+- Nombre d'heures de formation par personne : 44 heures 
+
+---
+
+## Parcours de formation
+
+### les sessions
+
+--
+
+- 3 sessions à choix couvrant août 2021 à avril 2022
+
+--
+
+- Chaque session couvre l'entièreté de la formation
+
+--
+
+- Chaque session contient 4 modules.
+
+--
+
+- Une session équivaut donc à un parcours de formation.
+
+--
+
+- Chaque session est introduite et conclue par avec un message de l'OES.
+
+--
+
+### les modules
+
+--
+
+- Les modules sont des entités organisée autour d'un thème;
+
+--
+
+- Un module couvre : connaître/comprendre, utiliser, partager/enrichir;
+
+--
+
+- Un module se découpe en 3 parties.
+
+---
+
+## Parcours de formation
+
+### 3 sessions pour 3 parcours de formation
+
+![Schéma - répartition des 3 sessions et leurs modules](schemas.png)
+
+---
+
+## Parcours de formation
+
+### Les modules comme principe actif de la formation
+
+![Schéma - Anatomie d'un module](schemas2.png)
+
+---
+
+## Parcours de formation
+
+### Anatomie d'un module
+
+--
+
+- A - introduction thématique : par l'équipe de formation, en comodal, avec portée académique, max. 200 personnes.
+
+--
+
+- B - Approfondissement : par la personne formée, sur une plateforme d'apprentissage, dépôt de ressources, activités de feedbacks (quizz, ...), avec assistance asynchrone de l'équipe de formation
+
+--
+
+- C - Ateliers pratiques : en présentiel, avec les pair·es, en groupes homogènes restreints de 15 personnes, 14 ateliers max en parallèle, animation par un·e responsable ES, autour d'études de cas (partage de pratiques, questionnement des pratiques)
+
+--
+
+La partie C est cruciale. C’est dans cette partie que les enseignant·es spécialisé·es vont confronter leurs croyances du fonctionnement de l’ES, des cultures d’établissement, des démarches réaslisées sur le terrain, avec les nouvelles connaissances. La partie C est donc capitale pour l’appropriation des connaissances et outils à des fins de mise en œuvre. 
+
+---
+
+class: inverse
+
+## Parcours de formation - Contenus des 4 modules
+
+--
+
+.pull-left[
+
+A l'origine 8 thèmes...
+
+- Connaître les actualités scientifiques.
+
+- Travailler en réseau et utiliser adéquatement le diagnostic.
+
+- Connaître les actualités en ce qui concerne le TSA.
+
+- Connaître les outils d'analyse des expert·es
+
+- Construire un projet adéquat (global/spécifique)
+
+- Découvrir et utiliser des outils d'intervention
+
+- Prendre en compte et évaluer les compétences transversales
+
+- Déterminer le type d'approche à privilégier (global/spécifique)
+
+]
+
+--
+
+.pull-right[
+
+...regroupés en 4 modules.
+
+- Eléments de psychologie cognitive (attention, mémoire, autres fonctions exécutives)
+
+- TSA : du diagnostic aux interventions
+
+- Eléments de sciences affectives : le développement émotionnel et les compétences psychosociales
+
+- Développer un projet d'intervention : entre risques et opportunités
+
+]
+---
+
+
+class: title-slide, inverse, middle
+background-image: url(https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1609&q=80)
+background-size: cover
+
+## Stratégie de recrutement des équipes de formation
+
+---
+
+## Stratégie de recrutement des équipes de formation
+
+### Personnes pressenties
+
+--
+
+- HEP-VS (Elena Lucciarini, Sylvie Richard, Pierre Vianin)
+
+--
+
+- UniDistance (Andrea C. Samson)
+
+--
+
+- HEPL ( ??? , Rachel Sermier Dessemontet, de Chambrier Anne-Françoise, ???)
+
+--
+
+- UNIFR (Lionel Alvarez, Genevière Petitpierre, Myriam Squillaci, Olivier Jorand )
+
+--
+
+- Autres institutions (Cherine Fahim, David Sander, ...)
+
+--
+
+### Processus de recrutement
+
+--
+
+1. Equipes de formation : à réaliser avant décembre 2021
+
+--
+
+1. Cadres de l'ES en Valais : à réaliser avant avril 2022
 
 ---
 
 class: title-slide, inverse, middle
-background-image: url("https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")
+background-image: url("https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80")
 background-size: cover
 
-## Actions à suivre
+## Discussion et Décisions
 
 ---
+
+class: middle
+
+## Prochains jalons go / no go
 
 --
 
-.pull-left[
-
-
-### `r icons::fontawesome("lightbulb")` Retour sur investissement concret
-
-
-]
-
-.pull-right[
-
-### `r icons::fontawesome("cogs")` Le processus QM mène à la nomination d'un GT
-
-]
-
----
-
-
-.pull-left[
-
-
-### `r icons::fontawesome("lightbulb")` Retour sur investissement concret
-
-### `r icons::fontawesome("lightbulb")` Système hybride et agile de génération d'idées
-
-
-
-]
-
-
-
-.pull-right[
-
-### `r icons::fontawesome("cogs")` Le processus QM mène à la nomination d'un GT
-
-### `r icons::fontawesome("cogs")` Le concept pilote d'idéation doit être amélioré
-
-]
----
-
-
-
-.pull-left[
-
-
-### `r icons::fontawesome("lightbulb")` Retour sur investissement concret
-
-### `r icons::fontawesome("lightbulb")` Système hybride et agile de génération d'idées
-
-### `r icons::fontawesome("lightbulb")` Possibilité de générer des idées librement de manière permanente
-
-
-]
-
-
-
-.pull-right[
-
-### `r icons::fontawesome("cogs")` Le processus QM mène à la nomination d'un GT
-
-### `r icons::fontawesome("cogs")` Le concept pilote d'idéation doit être amélioré
-
-### `r icons::fontawesome("cogs")` Un espace permanent et libre doit être prévu dans le concept
-
-
-]
----
-
-
-
-.pull-left[
-
-
-### `r icons::fontawesome("lightbulb")` Retour sur investissement concret
-
-### `r icons::fontawesome("lightbulb")` Système hybride et agile de génération d'idées
-
-### `r icons::fontawesome("lightbulb")` Possibilité de générer des idées librement de manière permanente
-
-### `r icons::fontawesome("lightbulb")` Communication institutionnelle de qualité autour du concept
-
-
-]
-
-
-.pull-right[
-
-### `r icons::fontawesome("cogs")` Le processus QM mène à la nomination d'un GT
-
-### `r icons::fontawesome("cogs")` Le concept pilote d'idéation doit être amélioré
-
-### `r icons::fontawesome("cogs")` Un espace permanent et libre doit être prévu dans le concept
-
-### `r icons::fontawesome("cogs")` Le processus QM doit impliquer l'UMC plus intensément
-
-]
----
-
-
-.pull-left[
-
-
-### `r icons::fontawesome("lightbulb")` Retour sur investissement concret
-
-### `r icons::fontawesome("lightbulb")` Système hybride et agile de génération d'idées
-
-### `r icons::fontawesome("lightbulb")` Possibilité de générer des idées librement de manière permanente
-
-### `r icons::fontawesome("lightbulb")` Communication institutionnelle de qualité autour du concept
-
-### `r icons::fontawesome("lightbulb")` Evolution des idées avec le brainstorming
-
-]
-
-
-
-.pull-right[
-
-### `r icons::fontawesome("cogs")` Le processus QM mène à la nomination d'un GT
-
-### `r icons::fontawesome("cogs")` Le concept pilote d'idéation doit être amélioré
-
-### `r icons::fontawesome("cogs")` Un espace permanent et libre doit être prévu dans le concept
-
-### `r icons::fontawesome("cogs")` Le processus QM doit impliquer l'UMC plus intensément
-
-### `r icons::fontawesome("cogs")` Le concept doit thématiser l'importance du brainstorming
-]
-
----
-
-class: middle center inverse
-
-## Participer à la création du processus et de l'outil 2.0
----
-
-class: middle center inverse
-
-## Actions à suivre
+- Septembre 2021 : validation financière du projet, validation du concept de formation
 
 --
 
-### Fiche-projet à DIR d’ici mi-juillet
+- Septembre 2021 : démarrage des organes de formation
 
 --
 
-### Requête DIR avec nomination du GT 
+- Novembre 2021 : Validation des équipes de formation
 
 --
 
-### Délivrables attendus et horizon temporel (en cours de semestre d’automne)
+- Février 2022 : Validation de la première communication aux ES par l'OES
+
+---
+class: middle, inverse
+
+## Précisions sur les organes de la formation
+
+--
+
+### Le comité d’organisation
+
+--
+
+### Le comité scientifique
+
+--
+
+### Le groupe consultatif
 
 ---
 
-class: middle center 
+class: middle, inverse
+
+## Précisions sur les organes de la formation
+
+### Le comité d’organisation :
 
 --
 
-## Création de la fiche-projet
+-	Travaille en continu
+-	Est composé des membres du personnel HEP-VS
+-	Conceptualise la formation
+-	Met en œuvre la formation
+-	Assure le lien avec le mandataire
+-	Gère le budget
+-	Communique aux parties prenantes
+-	Décide sur les aspects administratifs et opérationnels
+-	…
+
+---
+
+class: middle, inverse
+
+## Précisions sur les organes de la formation
+
+### Le comité scientifique :
 
 --
 
-### `r icons::fontawesome("envelope")` Annonce-toi par mail avant vendredi midi !
+-	Se réunit chaque trimestre, soit 4 fois par an
+-	Est composé des membres du personnel HEP-VS et d’expert·es externes
+-	Valide les contenus de formation
+-	Désigne les intervenant·es
+-	Se prononce sur les demandes particulières (équivalences, VAE, …)
+-	Décide sur les aspects scientifiques, pédagogiques et académiques (parcours de formation, etc)
+-	…
+
+---
+
+class: middle, inverse
+
+## Précisions sur les organes de la formation
+
+### Le groupe consultatif :
 
 --
 
-## Participation au groupe de travail
-
---
-
-### `r icons::fontawesome("envelope")` Annonce-toi avant mardi
-
+-	Se réunit chaque semestre, soit 2 fois par an
+-	Est composé de représentant·es des parties prenantes (OES, AMES, HEP-VS, …)
+-	Se prononce sur le déroulement de la formation
+-	Propose des régulations
+-	Soutient l’amélioration continue
+-	A voix consultative
+-	…
 
 
 ---
 
-class: inverse middle
+class: middle 
 <!--
 class:bottom inverse
 background-image: url(fit.png)
@@ -461,19 +559,19 @@ background-size: contain
 background-position: left
 -->
 
-.left[
 
 
-## `r icons::icon_style(icons::fontawesome("envelope"), scale = 2, fill ="white")` Participez à la suite du voyage !
+## Merci pour votre attention !
 
-<img src="fit.png" width="15%" />
+.left-column[
 
-
+![](logo.png)
 ]
+
 
 --
 
-.right[
+.right-column[
 
 
 Crédits photo par ordre d'apparition :
@@ -484,7 +582,11 @@ Crédits photo par ordre d'apparition :
 
 [Firmbee.com](https://unsplash.com/photos/jrh5lAq-mIs)
 
-[Marvin Meyer](https://unsplash.com/photos/SYTO3xs06fU)
+[Bruno Nascimento](https://unsplash.com/photos/PHIgYUGQPvU)
+
+[Element5 Digital](https://unsplash.com/photos/OyCl7Y4y0Bk)
+
+[Javier Allegue Barros](https://unsplash.com/photos/C7B-ExXpOIE)
 
 ]
 
