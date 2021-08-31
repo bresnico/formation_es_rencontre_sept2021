@@ -253,6 +253,8 @@ class: middle
 
 ### Les valeurs qui sous-tendent la formation
 
+--
+
 .pull-left[
 ### - Participation
 ### - Autonomie
@@ -561,7 +563,7 @@ background-position: left
 
 
 
-## Merci pour votre attention !
+## Merci pour votre attention !
 
 .left-column[
 
