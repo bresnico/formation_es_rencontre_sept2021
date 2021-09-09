@@ -417,7 +417,11 @@ background-size: cover
 
 <!-- ### Personnes pressenties -->
 
+--
+
 ### Institutions pressenties
+
+--
 
 - HEP-VS
 - UniDistance
