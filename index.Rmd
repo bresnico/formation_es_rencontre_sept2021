@@ -227,7 +227,7 @@ Nous formons des professionnel·les du terrain. En ce sens, tout le cursus est a
 
 --
 
-- Enrichir sa pratique (par les communautés de pratiques, foires aux pratiques, intervisions)
+- Enrichir le répertoire commun avec les connaissances actuelles de la recherche (par les communautés de pratiques, foires aux pratiques, intervisions)
 
 --
 
@@ -235,15 +235,15 @@ Nous formons des professionnel·les du terrain. En ce sens, tout le cursus est a
 
 --
 
--	Développement des capacités transversales (au sens du PER) des élèves en difficulté ;
+-	Développement des capacités transversales (au sens du PER) des élèves ;
 
 --
 
--	Connaissances d’aspects de neurosciences dans le développement de l’être humain ;
+-	Connaissances d’aspects de neurosciences dans le développement de l’être humain ;
 
 --
 
--	Connaissance et prise en charge des troubles du spectre de l’autisme
+-	Connaissance et prise en charge des troubles du spectre de l’autisme.
 
 ---
 
@@ -283,7 +283,7 @@ class: middle
 
 --
 
-- 3 sessions à choix couvrant août 2021 à avril 2022
+- 3 sessions à choix couvrant août 2022 à avril 2023
 
 --
 
@@ -330,6 +330,8 @@ class: middle
 ## Parcours de formation
 
 ### Les modules comme principe actif de la formation
+- Un collaboration HEP-VS et autorités scolaires pour le questionnement des pratiques (partie C)
+- Un pilotage de la HEP-VS garanti (partie C)
 
 ![Schéma - Anatomie d'un module](schemas2.png)
 
@@ -413,29 +415,37 @@ background-size: cover
 
 ## Stratégie de recrutement des équipes de formation
 
-### Personnes pressenties
+<!-- ### Personnes pressenties -->
 
---
+### Institutions pressenties
 
-- HEP-VS (Elena Lucciarini, Sylvie Richard, Pierre Vianin)
+- HEP-VS
+- UniDistance
+- HEP Vaud
+- UNIFR
+- Autres (privé, UNIGE)
 
---
+<!-- -- -->
 
-- UniDistance (Andrea C. Samson)
+<!-- - HEP-VS (Elena Lucciarini, Sylvie Richard, Pierre Vianin) -->
 
---
+<!-- -- -->
 
-- HEPL ( ??? , Rachel Sermier Dessemontet, de Chambrier Anne-Françoise, ???)
+<!-- - UniDistance (Andrea C. Samson) -->
 
---
+<!-- -- -->
 
-- UNIFR (Lionel Alvarez, Genevière Petitpierre, Myriam Squillaci, Olivier Jorand )
+<!-- - HEPL ( ??? , Rachel Sermier Dessemontet, de Chambrier Anne-Françoise, ???) -->
 
---
+<!-- -- -->
 
-- Autres institutions (Cherine Fahim, David Sander, ...)
+<!-- - UNIFR (Lionel Alvarez, Genevière Petitpierre, Myriam Squillaci, Olivier Jorand ) -->
 
---
+<!-- -- -->
+
+<!-- - Autres institutions (Cherine Fahim, David Sander, ...) -->
+
+<!-- -- -->
 
 ### Processus de recrutement
 
@@ -459,6 +469,24 @@ background-size: cover
 
 class: middle
 
+## Questions particulières
+
+--
+
+- Quel est le public-cible précisément ? Quelles sont les catégories ? Combien de personnes sont touchées ?
+ 
+--
+
+- Participation uniquement aux conférences pour les enseignant·es en formation ?
+
+--
+
+- Quel·les sont les élèves visé·es ? Elèves de l'API ordinaire, renforcé ? Tous les élèves (rôle de personne-ressource de l'ES) ?
+
+---
+
+class: middle
+
 ## Prochains jalons go / no go
 
 --
@@ -467,15 +495,15 @@ class: middle
 
 --
 
-- Septembre 2021 : démarrage des organes de formation
+- Octobre 2021 : démarrage des organes de formation
 
 --
 
-- Novembre 2021 : Validation des équipes de formation
+- Janvier 2022 : Validation des équipes de formation
 
 --
 
-- Février 2022 : Validation de la première communication aux ES par l'OES
+- Février 2022 : Validation de la première communication aux ES par l'OES sur proposition de la HEP-VS
 
 ---
 class: middle, inverse
