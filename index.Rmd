@@ -283,7 +283,7 @@ class: middle
 
 --
 
-- 3 sessions à choix couvrant août 2022 à avril 2023
+- 3 sessions à choix couvrant août 2022 à avril 2024
 
 --
 
