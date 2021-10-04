@@ -1,7 +1,7 @@
 ---
 title: "Formation continue obligatoire des ES du VS Romand"
 subtitle: "Présentation du projet HEP-VS &#x1F6A7;"  
-team: "Équipe de pilotage du projet"
+team: "Comité de pilotage du projet"
 author: "Sous la direction d'Anne-Françoise Martinon"
 date: "15 septembre 2021"
 photo_creds: "[Brighton, velká británie](https://unsplash.com/photos/fJ6r_mkHrsw)" 
