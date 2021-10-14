@@ -516,11 +516,11 @@ class: middle, inverse
 
 --
 
-### Le comité d’organisation
+### Le comité de pilotage
 
 --
 
-### Le comité scientifique
+### Le conseil scientifique
 
 --
 
@@ -532,7 +532,7 @@ class: middle, inverse
 
 ## Précisions sur les organes de la formation
 
-### Le comité d’organisation :
+### Le comité de pilotage :
 
 --
 
@@ -552,7 +552,7 @@ class: middle, inverse
 
 ## Précisions sur les organes de la formation
 
-### Le comité scientifique :
+### Le conseil scientifique :
 
 --
 
